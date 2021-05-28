@@ -1,4 +1,5 @@
 # Spring-boot-Todo-App
-## Full Back-end Todo App with H2 embedded database
+## Full Back-end with REST API is made in Spring framework (Spring MVC, Spring Boot, Spring Data JPA, Spring Security)
+### Description
 * Added Basic Authentication
 * Added JWT
