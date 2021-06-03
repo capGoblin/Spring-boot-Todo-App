@@ -18,6 +18,9 @@ public class JwtInMemoryUserDetailsService implements UserDetailsService {
     inMemoryUserList.add(new JwtUserDetails(1L, "in28minutes",
         "$2a$10$3zHzb.Npv1hfZbLEU5qsdOju/tk2je6W6PnNnY.c1ujWPcZh4PL6e", "ROLE_USER_2"));
   }
+//  {
+//	  token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpbjI4bWludXRlcyIsImV4cCI6MTYyMzMxOTc1NCwiaWF0IjoxNjIyNzE0OTU0fQ.treyc2j8Dmg1W3TD7UiPXfHodrACc0HeuIROnvvsyXzXJYDyG-zbKT9cwekGEMALsZI0cREa8fo5Q0Nv9C67hw
+//  }
 
   @Override
   public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
