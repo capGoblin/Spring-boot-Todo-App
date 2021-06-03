@@ -1,5 +1,5 @@
 # Spring-boot-Todo-App
-## Full Back-end with REST API is made in Spring framework (Spring MVC, Spring Boot, Spring Data JPA, Spring Security)
+## Full Functioning Back-end REST API made in Spring framework (Spring MVC, Spring Boot, Spring Data JPA, Spring Security)
 ### Small Description
 * Added Basic Authentication security.
 * Added JWT.
